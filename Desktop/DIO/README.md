@@ -30,7 +30,6 @@ O cenário utilizado no desafio é o de uma **loja virtual**, com foco na **func
 
 ## 📂 Estrutura do Repositório
 
-```text
 📁 desafio-qa-sprint-1
  ┣ 📄 README.md
  ┣ 📄 Desafio_QA_Sprint1_Documentacao_FINAL.pdf
